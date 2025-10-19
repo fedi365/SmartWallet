@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon serveur.js"
+    "dev": "nodemon serveur.js",
+    "start": "node src/server.js"
   },
   "keywords": [],
   "type": "module",
