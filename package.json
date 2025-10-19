@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon serveur.js",
-    "start": "node src/serveur.js"
+    "start": "node serveur.js"
   },
   "keywords": [],
   "type": "module",
